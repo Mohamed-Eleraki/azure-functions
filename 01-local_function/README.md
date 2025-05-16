@@ -34,3 +34,6 @@ Choose option: 2
 Appending to /home/eraki/Documents/gitReposPersonal/azure-functions/01-local_function/function_app.py
 The function "localHTTPfunc" was created successfully from the "HTTP trigger" template.
 ```
+
+- once you are ready run the function using `func start` and navigate to the URL output.
+- Parse the URL with your name: `http://localhost:7071/api/localHTTPfunc?name=mohamed+eraki`
