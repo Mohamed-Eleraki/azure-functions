@@ -1,0 +1,52 @@
+{
+    "students": [
+        {
+            "student_id": 1,
+            "name": "John Smith",
+            "courses": [
+                {
+                    "course_id": 101,
+                    "course_name": "Math",
+                    "grade": 95
+                },
+                {
+                    "course_id": 102,
+                    "course_name": "Science",
+                    "grade": 88
+                }
+            ]
+        },
+        {
+            "student_id": 2,
+            "name": "Alice Johnson",
+            "courses": [
+                {
+                    "course_id": 101,
+                    "course_name": "Math",
+                    "grade": 92
+                },
+                {
+                    "course_id": 103,
+                    "course_name": "History",
+                    "grade": 78
+                }
+            ]
+        },
+        {
+            "student_id": 3,
+            "name": "Bob Davis",
+            "courses": [
+                {
+                    "course_id": 102,
+                    "course_name": "Science",
+                    "grade": 87
+                },
+                {
+                    "course_id": 103,
+                    "course_name": "History",
+                    "grade": 85
+                }
+            ]
+        }
+    ]
+}
