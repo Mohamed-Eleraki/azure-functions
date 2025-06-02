@@ -1,0 +1,4 @@
+full_source_path,src_sas,full_dest_path,dest_sas,src_sas_token
+"https://STORAGE_NAME.blob.core.windows.net/source/sourcedir01/$BLOB_NAME","?sN4%3D","https://STORAGE_NAME.blob.core.windows.net/destination/destdir01/$BLOB_NAME","?","sp"
+"https://STORAGE_NAME.blob.core.windows.net/source/sourcedir2/$BLOB_NAME","?spY%3D&sdd=1","https://STORAGE_NAME.blob.core.windows.net/destination/destdir02/$BLOB_NAME","?sp=racwdlmeop&st=2025-","sp"
+"https://STORAGE_NAME.blob.core.windows.net/source/sourcedir3/$BLOB_NAME","?sp3D","https://STORAGE_NAME.blob.core.windows.net/destination/destdir03/$BLOB_NAME","?sp=racwdlm","sp"

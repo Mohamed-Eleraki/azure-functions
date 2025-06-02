@@ -1,0 +1,3 @@
+full_source_path,src_sas,full_dest_path,dest_sas
+"https://STORAGE_NAME.blob.core.windows.net/source/sourcedir01/*","?sp=","https://STORAGE_NAME.blob.core.windows.net/destination/destdir01/$BLOB_NAME","?sp="
+"https://STORAGE_NAME.blob.core.windows.net/source/sourcedir2/*","?sp=r3D&sdd=1","https://STORAGE_NAME.blob.core.windows.net/destination/destdir02/$BLOB_NAME","?sp"
